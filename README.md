@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/AishTest1/E-zone/_apis/build/status/E-zone-ASP.NET%20Core%20-%20Classic?branchName=master)](https://dev.azure.com/AishTest1/E-zone/_build/latest?definitionId=61&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
